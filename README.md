@@ -1,3 +1,5 @@
+![LOGO](privalogo.png)
+
 # Welcome to Privasphere
 
 Privasphere is a decentralized, privacy-preserving social network that aims to provide users with a secure platform for communication and social interaction. The project is designed to address the privacy concerns that are increasingly affecting users of mainstream social networks, by providing a decentralized, federated architecture that ensures that users' data is not controlled by a central entity.
